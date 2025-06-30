@@ -22,14 +22,7 @@ pie
     "TCP" : 85
     "DNS" : 8
     "TLS" : 7
-Repository Structure
-text
-📂 ElevateLabs-Task5-Network-Analysis/
-├── 📄 README.md                   # This documentation
-├── 📄 Network_Analysis_Report.pdf # Complete analysis report
-├── 📄 packet_capture.pcap         # Original packet capture file
-├── 📄 analysis_summary.txt        # Key findings summary
-└── 📄 mitigation_commands.sh      # Recommended fixes
+
 How to Use This Repository
 1. Review the Analysis Report
 Open Network_Analysis_Report.pdf for:
